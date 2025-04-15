@@ -1,4 +1,6 @@
 # NextGrocery
+![image](https://github.com/user-attachments/assets/6ee9c6b9-f94f-4069-a9ed-20e12ab6399c)
+![image](https://github.com/user-attachments/assets/540b96ec-715d-4d69-b619-4e715e8aba72)
 
 A modern grocery delivery application built with Next.js, Tailwind CSS, and Supabase.
 
