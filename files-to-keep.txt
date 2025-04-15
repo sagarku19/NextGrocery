@@ -1,0 +1,15 @@
+app/
+components/
+hooks/
+lib/
+public/
+scripts/
+.env.example
+.gitignore
+next.config.js
+package.json
+package-lock.json
+postcss.config.js
+README.md
+tailwind.config.js
+vercel.json 
